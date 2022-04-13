@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hydruga!
-- 👀 I’m interested in Go, JS&React, Python/Django, C/C++ for web and system programming.
-- 🌱 I’m currently learning golang, containerization and looking into Teraform.  
+- 👋 Hi, I’m hydruga!
+- 👀 I’m interested in Go, C/C++, web and microservices. 
+- 🌱 I’m currently learning golang web development, containerization and orchestration.  
 
 <!---
 hydruga/hydruga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
