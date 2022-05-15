@@ -1,5 +1,5 @@
 - 👋 Hi, I’m hydruga!
-- 👀 I’m interested in Go, C/C++, web and microservices. 
+- 👀 I’m interested in Go web and api development for microservices. 
 - 🌱 I’m currently learning golang web development, containerization and orchestration.  
 
 <!---
