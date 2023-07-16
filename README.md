@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hydruga!
-- 👀 I’m interested in Go web and api development for microservices. 
-- 🌱 I’m currently learning golang web development, containerization and orchestration.  
+- 👀 I’m interested in Go development for microservices. 
+- 🌱 I’m currently learning gRPC, k8s controller/operators.  
 
 <!---
 hydruga/hydruga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
